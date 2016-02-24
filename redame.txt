@@ -1,1 +1,2 @@
 Firefox Os image that can be mounted on raspberry pi
+image download link https://www.dropbox.com/s/4udfp704u2hmemx/ffos-rpi-04.img.tar.bz2?dl=0
