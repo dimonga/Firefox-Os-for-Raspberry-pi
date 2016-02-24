@@ -1,0 +1,1 @@
+Firefox Os image that can be mounted on raspberry pi
